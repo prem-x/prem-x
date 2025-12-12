@@ -1,42 +1,46 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Monospace&weight=700&size=34&pause=900&color=9E9E9E&center=true&vCenter=true&width=900&lines=PREM+AKKATANGERHAL;Data+Science+•+Machine+Learning+•+Analytics;Crafting+Clean+%26+Intelligent+Systems." />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?duration=2200&pause=1500&center=true&vCenter=true&width=1000&size=38&color=BFBFBF&font=JetBrains+Mono&weight=700&lines=PREM+AKKATANGERHAL;Data+Science+•+Machine+Learning+•+Analytics;Crafting+Clean+%26+Intelligent+Systems.;Building+Future-Ready+AI+Solutions."
+  />
 </h1>
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/black.png" width="450" height="1">
-</p>
-
+<h2 align="left" style="margin-bottom:0; padding-bottom:0; border:none;">
+  ◼ ABOUT ME — <b>PREM AKKATANGERHAL</b>
+</h2>
 
 
-
-## ◼ ABOUT ME — **PREM AKKATANGERHAL**
 - 🔎 Focus: **Data Science • Machine Learning • Analytics**  
 - 🧰 Tools: Python, Pandas, NumPy, Matplotlib, scikit-learn, Jupyter  
 - ⚙️ Currently learning: advanced ML pipelines, automation, Git/GitHub  
 - 🧠 Philosophy: _Elegance in code. Precision in results._  
 - 🎯 Goal: Build intelligent, high-impact AI systems  
 
----
 
-## ◼ TECH STACK (MONOCHROME ICONS)
-<h2 align="center">⚡ Premium Tech Stack</h2>
+## ◼ TECH STACK 
+
 
 <p align="center">
 
   <!-- Programming Languages -->
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python&theme=light" height="60" />
 
-  <!-- Machine Learning -->
+  <!-- Machine Learning Core -->
   <img src="https://skillicons.dev/icons?i=tensorflow&theme=light" height="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="48" />
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="52" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="50" />
 
-  <!-- Design & Tools -->
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="50" />
+
+  <!-- Jupyter Notebook (choose best one) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" style="background:white; padding:8px; border-radius:22%;" />
+
+  <!-- Design Tools -->
   <img src="https://skillicons.dev/icons?i=ai,ps,figma&theme=light" height="60" />
 
 </p>
+
 
 
 ## ◼ FEATURED PROJECTS
