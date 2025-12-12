@@ -96,16 +96,25 @@ GITHUB ANALYTICS
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prem-x&theme=github-compact&hide_border=true"/>
 </p>
-
-<div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prem-x/prem-x/main/dist/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prem-x/prem-x/main/dist/snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/prem-x/prem-x/main/dist/snake.svg" width="900" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/prem-x/prem-x/main/dist/snake.svg" />
 </picture>
 
-</div>
+
+### 📚 GitHub Summary Cards
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prem-x&theme=github_dark" />
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prem-x&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prem-x&theme=github_dark" />
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prem-x&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prem-x&theme=github_dark" />
+</p>
+
+
 
 
 
