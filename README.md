@@ -3,14 +3,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Monospace&weight=700&size=34&pause=900&color=9E9E9E&center=true&vCenter=true&width=900&lines=PREM+AKKATANGERHAL;Data+Science+•+Machine+Learning+•+Analytics;Crafting+Clean+%26+Intelligent+Systems." />
 </h1>
 
-<p align="center"><i>Minimal. Monochrome. Powerful.</i></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/black.png" width="450" height="1">
 </p>
 
 
----
+
 
 ## ◼ ABOUT ME — **PREM AKKATANGERHAL**
 - 🔎 Focus: **Data Science • Machine Learning • Analytics**  
