@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # Runs every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -14,18 +14,18 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Generate Snake
+      - name: Generate Snake (NO PROGRESS BAR)
         uses: Platane/snk@v3
         with:
           github_user_name: prem-x
           outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg
+            dist/snake.svg?palette=github-light
+            dist/snake-dark.svg?palette=github-dark
 
       - name: Push Snake Animation
         uses: EndBug/add-and-commit@v9
         with:
-          message: "update snake.svg animation"
+          message: "update snake animation"
           add: "dist/*.svg"
