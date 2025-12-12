@@ -21,24 +21,28 @@
 ---
 
 ## ◼ TECH STACK (MONOCHROME ICONS)
-<p align="center" style="
-  backdrop-filter: blur(14px);
-  background: rgba(0,0,0,0.35);
-  padding: 20px;
-  border-radius: 16px;
-  display: inline-block;
-">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,sklearn,tensorflow,pytorch,opencv&theme=dark" height="70" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,git,github,figma,ai,ps&theme=dark" height="70" />
+<h2 align="center">⚡ Premium Tech Stack</h2>
+
+<p align="center">
+
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python&theme=light" height="60" />
+
+  <!-- Machine Learning -->
+  <img src="https://skillicons.dev/icons?i=tensorflow&theme=light" height="60" />
+ <span style="background:#ffff; padding:8px; border-radius:12px; display:inline-flex;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="45" />
+</span>
+
+<span style="background:#ffff; padding:8px; border-radius:12px; display:inline-flex;">
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="45" />
+</span>
+
+
+  <!-- Design & Tools -->
+  <img src="https://skillicons.dev/icons?i=ai,ps,figma&theme=light" height="60" />
+
 </p>
-
-
-  <!-- Google Developer Logo - Monochrome -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Google_Developers_logo.svg" height="50" style="filter: grayscale(100%);" />
-</p>
-
----
 
 ## ◼ FEATURED PROJECTS
 
