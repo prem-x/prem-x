@@ -22,9 +22,16 @@
 ---
 
 ## ◼ TECH STACK (MONOCHROME ICONS)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,sklearn,jupyter,git,github&theme=light&perline=8" height="90" />
+<p align="center" style="
+  backdrop-filter: blur(14px);
+  background: rgba(0,0,0,0.35);
+  padding: 20px;
+  border-radius: 16px;
+  display: inline-block;
+">
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,sklearn,tensorflow,pytorch,opencv&theme=dark" height="70" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,git,github,figma,ai,ps&theme=dark" height="70" />
 </p>
 
 
