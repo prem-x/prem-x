@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Monospace&weight=700&size=34&pause=800&color=000000&center=true&vCenter=true&width=820&lines=PREM+AKKATANGARHAL;Data+Science+•+Machine+Learning+•+Analytics;Crafting+Clean+%26+Intelligent+Systems." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Monospace&weight=700&size=34&pause=800&color=#FFFFFF&center=true&vCenter=true&width=820&lines=PREM+AKKATANGARHAL;Data+Science+•+Machine+Learning+•+Analytics;Crafting+Clean+%26+Intelligent+Systems." />
 </h1>
 
 <p align="center">
