@@ -1,36 +1,49 @@
-<h1>Hi 👋, I'm Prem Akkatangerhal</h1>
-<p>A Data Science & Machine Learning Enthusiast</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
-<a target="_blank" href="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="display: inline-block;"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="42" height="42" /></a>
-<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>✒️ Recent Posts</h2>
-<ul>
-<li><a target="_blank" href="https://www.behance.net/gallery/235464741/Snazz-Wear">Snazz Wear</a></li>
-<li><a target="_blank" href="https://www.behance.net/gallery/234787001/Open-Fashion">Open Fashion</a></li>
-<li><a target="_blank" href="https://www.linkedin.com/posts/prem-akkatangerhal-97b43924a_powerbi-dataanalytics-businessintelligence-activity-7404744157853974528-mUhV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD2lBS8Bxdj_ZJCytegXLnV1nYr4xhhn_QY">Intelligent Weather & Air Quality Analytics Dashboard</a></li>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/PREM AKKATANGERHAL" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.instagram.com/_.prem.23" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
-<a target="_blank" href="https://www.behance.net/prem23" style="display: inline-block;"><img src="https://img.shields.io/badge/behance-logo?style=for-the-badge&logo=behance&logoColor=white&color=%230057ff" alt="behance" /></a>
-<a target="_blank" href="undefined@prem.2311" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a>
-<a target="_blank" href="https://www.youtube.com/@DataFusionx" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=PREM AKKATANGERHAL&show_icons=true&locale=en" alt="PREM AKKATANGERHAL" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PREM AKKATANGERHAL&" alt="PREM AKKATANGERHAL" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=PREM AKKATANGERHAL&show_icons=true&locale=en&layout=compact" alt="PREM AKKATANGERHAL" /></p>
+<!-- ================================================== -->
+<!--  GOD-LEVEL MONOCHROME README for PREM AKKATANGARHAL  -->
+<!-- ================================================== -->
+
+<!-- Typing Hero (monochrome) -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Monospace&weight=700&size=34&pause=800&color=000000&center=true&vCenter=true&width=820&lines=PREM+AKKATANGARHAL;Data+Science+%E2%80%A2+Machine+Learning+%E2%80%A2+Analytics;Crafting+Clean+%26+Intelligent+Systems." alt="PREM AKKATANGARHAL" />
+</h1>
+
+<p align="center">
+  <i style="color:#222">Minimal. Monochrome. Unapologetically premium.</i>
+</p>
+
+<!-- Minimal Black Line -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/black.png" width="520" height="1" alt="line" />
+</p>
+
+<!-- ASCII HERO (monochrome) -->
+<pre align="center" style="font-size:12px; line-height:10px;">
+██████╗ ██████╗  ██████╗ ███╗   ███╗██╗ █████╗ ███╗   ██╗ █████╗ ██╗   ██╗
+██╔══██╗██╔══██╗██╔═══██╗████╗ ████║██║██╔══██╗████╗  ██║██╔══██╗╚██╗ ██╔╝
+██████╔╝██████╔╝██║   ██║██╔████╔██║██║███████║██╔██╗ ██║███████║ ╚████╔╝ 
+██╔═══╝ ██╔══██╗██║   ██║██║╚██╔╝██║██║██╔══██║██║╚██╗██║██╔══██║  ╚██╔╝  
+██║     ██║  ██║╚██████╔╝██║ ╚═╝ ██║██║██║  ██║██║ ╚████║██║  ██║   ██║   
+╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   
+</pre>
+
+---
+
+## ◼ ABOUT — PREM AKKATANGARHAL  
+<p style="max-width:820px">
+I build **clean**, **reproducible**, and **impactful** Machine Learning systems. I focus on data clarity, robust pipelines, and interpretable models — with a taste for elegant, minimal design in every project.  
+</p>
+
+- 🔎 Focus: **Data Science • Machine Learning • Analytics**  
+- 🧰 Core: **Python**, **Pandas**, **NumPy**, **Matplotlib**, **scikit-learn**, **Jupyter**  
+- 🎯 Current: Advanced ML pipelines, model deployment, automation & production-ready workflows  
+- 🔁 Philosophy: _Simplicity > Complexity — useful systems over clever code._
+
+---
+
+## ◼ HACKER WELCOME (interactive-looking)
+```bash
+# Terminal preview (cosmetic)
+$ ssh prem@github
+Welcome to PREM's code-space.
+> loading projects... [●●●●●-----] 62%
+> integrity OK. ready to build intelligence.
