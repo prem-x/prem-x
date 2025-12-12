@@ -30,19 +30,14 @@
 
   <!-- Machine Learning -->
   <img src="https://skillicons.dev/icons?i=tensorflow&theme=light" height="60" />
- <span style="background:#ffff; padding:8px; border-radius:12px; display:inline-flex;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="45" />
-</span>
-
-<span style="background:#ffff; padding:8px; border-radius:12px; display:inline-flex;">
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="45" />
-</span>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="48" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="52" />
 
   <!-- Design & Tools -->
   <img src="https://skillicons.dev/icons?i=ai,ps,figma&theme=light" height="60" />
 
 </p>
+
 
 ## ◼ FEATURED PROJECTS
 
