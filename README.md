@@ -97,6 +97,16 @@ GITHUB ANALYTICS
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prem-x&theme=github-compact&hide_border=true"/>
 </p>
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prem-x/prem-x/main/dist/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prem-x/prem-x/main/dist/snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/prem-x/prem-x/main/dist/snake.svg" width="900" />
+</picture>
+
+</div>
+
 
 
 <h2 align="center" style="
