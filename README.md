@@ -24,8 +24,9 @@
 ## ◼ TECH STACK (MONOCHROME ICONS)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,sklearn,git,github,jupyter&theme=light&perline=8" height="60" />
-  <br><br>
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,sklearn,jupyter,git,github&theme=light&perline=8" height="90" />
+</p>
+
 
   <!-- Google Developer Logo - Monochrome -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Google_Developers_logo.svg" height="50" style="filter: grayscale(100%);" />
