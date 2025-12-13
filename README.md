@@ -22,12 +22,21 @@
   font-family: 'JetBrains Mono', monospace;
   font-size: 15px;
   color: #CFCFCF;
-  line-height: 1.55;
+  line-height: 1.65;
+  max-width: 820px;
+  margin: 0 auto;
+  padding: 18px 20px;
+  border: 1px solid rgba(255,255,255,0.15);
+  border-radius: 10px;
+  background: rgba(255,255,255,0.02);
 ">
-  <b>Focus : </b> Data Science • Machine Learning • Analytics <br>
-  <b>Tools : </b> Python • Pandas • NumPy • Matplotlib • scikit-learn • Jupyter <br>
-  <b>Currently Learning : </b> Advanced ML pipelines • automation • Git/GitHub <br>
-  <b>Goal : </b> Build intelligent • high-impact AI systems.
+  I am a passionate <b>Data Science</b> and <b>Machine Learning</b> enthusiast from <b>India</b>, currently pursuing 
+  <b>B.Tech in Computer Science & Engineering 3rd Year student</b> at <b>Lovely Professional University, Punjab</b>. 
+  My primary <b>focus</b> is on Data Science, Machine Learning, Analytics, and Robotics, where I enjoy building intelligent systems 
+  and extracting meaningful insights from data. I actively work with <b>Python</b>, <b>Pandas</b>, <b>NumPy</b>, 
+  <b>Matplotlib</b>, <b>Seaborn</b>, <b>scikit-learn</b>, and <b>Jupyter</b>, and continuously enhance my skill set by learning 
+  <b>advanced ML pipelines</b>, <b>automation</b>, and <b>Git/GitHub</b>. My long-term <b>goal</b> is to design 
+  high-impact AI and robotics-driven solutions that solve real-world problems with precision, efficiency, and elegance.
 </div>
 
 <br>
