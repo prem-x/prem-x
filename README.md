@@ -75,21 +75,100 @@
 <br>
 <h2 align="center" style="
   font-family:'JetBrains Mono', monospace;
-  font-weight:700;
   font-size:28px;
-  color:#E0E0E0;
+  font-weight:700;
+  color:#E6E6E6;
+  margin-bottom:24px;
 ">
   FEATURED PROJECTS
 </h2>
 
-###  **AI Skin Analyzer**  
-CNN-based architecture for early skin disease detection.
+<div align="center">
 
-###  **Wine Quality Detection**  
-Predicts wine quality using a complete ML pipeline + evaluation.
+<!-- CARD CONTAINER -->
+<div style="
+  display:flex;
+  gap:18px;
+  flex-wrap:wrap;
+  justify-content:center;
+  max-width:1100px;
+">
 
-###  **Indian Flag Visualization**  
-Artistic plotting using Python & Matplotlib.
+<!-- CARD 1 -->
+<div style="
+  width:320px;
+  padding:18px;
+  border-radius:14px;
+  background:linear-gradient(180deg, #1E1F26, #191A20);
+  border:1px solid rgba(255,255,255,0.08);
+  box-shadow:0 10px 30px rgba(0,0,0,0.35);
+  font-family:'JetBrains Mono', monospace;
+  color:#CFCFCF;
+  text-align:left;
+">
+  <div style="color:#FF4D6D; font-weight:700; margin-bottom:8px;">
+    ML-Experiments
+  </div>
+  <div style="font-size:14px; line-height:1.6;">
+    A series of Machine Learning projects built to deliver smart predictions,
+    intelligent insights, and real-world applications.
+  </div>
+  <div style="margin-top:14px; font-size:13px; color:#F39C12;">
+    ● Jupyter Notebook
+  </div>
+</div>
+
+<!-- CARD 2 -->
+<div style="
+  width:320px;
+  padding:18px;
+  border-radius:14px;
+  background:linear-gradient(180deg, #1E1F26, #191A20);
+  border:1px solid rgba(255,255,255,0.08);
+  box-shadow:0 10px 30px rgba(0,0,0,0.35);
+  font-family:'JetBrains Mono', monospace;
+  color:#CFCFCF;
+  text-align:left;
+">
+  <div style="color:#FF4D6D; font-weight:700; margin-bottom:8px;">
+    Network-Analysis
+  </div>
+  <div style="font-size:14px; line-height:1.6;">
+    Live network traffic analyzer using Scapy with SQL storage and
+    graph-based anomaly detection.
+  </div>
+  <div style="margin-top:14px; font-size:13px; color:#E67E22;">
+    ● HTML
+  </div>
+</div>
+
+<!-- CARD 3 -->
+<div style="
+  width:320px;
+  padding:18px;
+  border-radius:14px;
+  background:linear-gradient(180deg, #1E1F26, #191A20);
+  border:1px solid rgba(255,255,255,0.08);
+  box-shadow:0 10px 30px rgba(0,0,0,0.35);
+  font-family:'JetBrains Mono', monospace;
+  color:#CFCFCF;
+  text-align:left;
+">
+  <div style="color:#FF4D6D; font-weight:700; margin-bottom:8px;">
+    Weather-App
+  </div>
+  <div style="font-size:14px; line-height:1.6;">
+    A global weather application providing real-time climate data
+    and forecasts.
+  </div>
+  <div style="margin-top:14px; font-size:13px; color:#5DADE2;">
+    ● Python
+  </div>
+</div>
+
+</div>
+</div>
+
 
 <br>
  
@@ -112,16 +191,12 @@ GITHUB ANALYTICS
 </picture>
 
 
-### 📚 GitHub Summary Cards
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prem-x&theme=github_dark" />
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prem-x&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prem-x&theme=github_dark" />
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prem-x&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prem-x&theme=github_dark" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem-x&layout=compact&theme=github_dark&hide_border=true"
+  />
 </p>
+
 
 
 
