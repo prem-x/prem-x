@@ -73,89 +73,19 @@
 
 </p>
 <br>
-<h2 align="center" style="
-  font-family:'JetBrains Mono', monospace;
-  font-size:28px;
-  font-weight:700;
-  color:#E6E6E6;
-  margin-bottom:24px;
-">
-  FEATURED PROJECTS
-</h2>
-
-<div align="center">
-
-## 🚀 Projects
-
-<p align="center">
-
-  <!-- ML Experiments -->
-  <a href="https://github.com/prem-x/ml-experiments" target="_blank" rel="noopener noreferrer"
-     style="text-decoration:none; display:inline-block; margin: 0 18px; width: 280px;">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=prem-x&repo=ml-experiments&theme=github_dark&hide_border=true"
-      alt="ML Experiments Repository"
-      width="280"
-      style="border-radius:12px; box-shadow:0 6px 18px rgba(0,0,0,0.35);"
-    />
-  </a>
-
-  <!-- Network Analysis -->
-  <a href="https://github.com/prem-x/Network-Analysis" target="_blank" rel="noopener noreferrer"
-     style="text-decoration:none; display:inline-block; margin: 0 18px; width: 280px;">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=prem-x&repo=Network-Analysis&theme=github_dark&hide_border=true"
-      alt="Network Analysis Repository"
-      width="280"
-      style="border-radius:12px; box-shadow:0 6px 18px rgba(0,0,0,0.35);"
-    />
-  </a>
-
-  <!-- Weather App -->
-  <a href="https://github.com/prem-x/Weather-App" target="_blank" rel="noopener noreferrer"
-     style="text-decoration:none; display:inline-block; margin: 0 18px; width: 280px;">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=prem-x&repo=Weather-App&theme=github_dark&hide_border=true"
-      alt="Weather App Repository"
-      width="280"
-      style="border-radius:12px; box-shadow:0 6px 18px rgba(0,0,0,0.35);"
-    />
-  </a>
-
-</p>
-
-
 <br>
- 
-<h2 align="center" style="
-  font-family:'JetBrains Mono', monospace;
-  font-weight:700;
-  font-size:28px;
-  color:#E0E0E0;
-">
-GITHUB ANALYTICS
-</h2>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prem-x&theme=github-compact&hide_border=true"/>
-</p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prem-x/prem-x/main/dist/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prem-x/prem-x/main/dist/snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/prem-x/prem-x/main/dist/snake.svg" />
-</picture>
-
-
-<p align="center">
+ <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem-x&layout=compact&theme=github_dark&hide_border=true"
   />
 </p>
+<br>
 
 
-
-
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prem-x&theme=github-compact&hide_border=true"/>
+</p>
 
 <h2 align="center" style="
   font-family:'JetBrains Mono', monospace;
@@ -167,7 +97,6 @@ GITHUB ANALYTICS
 <br>
 CONNECT WITH ME 
 </h2>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/prem-akkatangerhal-97b43924a"><b>LinkedIn</b></a> •  
   <a href="https://www.instagram.com/_.prem.23"><b>Instagram</b></a> •  
@@ -176,7 +105,3 @@ CONNECT WITH ME
 </p>
 
 <br><br> 
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3500&pause=900&color=BFBFBF&center=true&vCenter=true&width=1000&lines=•+THANKS+FOR+VISITING+•;DATA+SCIENCE+•+MACHINE+LEARNING+•+ANALYTICS" />
-</p>
