@@ -85,89 +85,44 @@
 
 <div align="center">
 
-<!-- CARD CONTAINER -->
-<div style="
-  display:flex;
-  gap:18px;
-  flex-wrap:wrap;
-  justify-content:center;
-  max-width:1100px;
-">
+## 🚀 Projects
 
-<!-- CARD 1 -->
-<div style="
-  width:320px;
-  padding:18px;
-  border-radius:14px;
-  background:linear-gradient(180deg, #1E1F26, #191A20);
-  border:1px solid rgba(255,255,255,0.08);
-  box-shadow:0 10px 30px rgba(0,0,0,0.35);
-  font-family:'JetBrains Mono', monospace;
-  color:#CFCFCF;
-  text-align:left;
-">
-  <div style="color:#FF4D6D; font-weight:700; margin-bottom:8px;">
-    ML-Experiments
-  </div>
-  <div style="font-size:14px; line-height:1.6;">
-    A series of Machine Learning projects built to deliver smart predictions,
-    intelligent insights, and real-world applications.
-  </div>
-  <div style="margin-top:14px; font-size:13px; color:#F39C12;">
-    ● Jupyter Notebook
-  </div>
-</div>
+<p align="center">
 
-<!-- CARD 2 -->
-<div style="
-  width:320px;
-  padding:18px;
-  border-radius:14px;
-  background:linear-gradient(180deg, #1E1F26, #191A20);
-  border:1px solid rgba(255,255,255,0.08);
-  box-shadow:0 10px 30px rgba(0,0,0,0.35);
-  font-family:'JetBrains Mono', monospace;
-  color:#CFCFCF;
-  text-align:left;
-">
-  <div style="color:#FF4D6D; font-weight:700; margin-bottom:8px;">
-    Network-Analysis
-  </div>
-  <div style="font-size:14px; line-height:1.6;">
-    Live network traffic analyzer using Scapy with SQL storage and
-    graph-based anomaly detection.
-  </div>
-  <div style="margin-top:14px; font-size:13px; color:#E67E22;">
-    ● HTML
-  </div>
-</div>
+  <!-- ML Experiments -->
+  <a href="https://github.com/prem-x/ml-experiments" target="_blank" rel="noopener noreferrer"
+     style="text-decoration:none; display:inline-block; margin: 0 18px; width: 280px;">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=prem-x&repo=ml-experiments&theme=github_dark&hide_border=true"
+      alt="ML Experiments Repository"
+      width="280"
+      style="border-radius:12px; box-shadow:0 6px 18px rgba(0,0,0,0.35);"
+    />
+  </a>
 
-<!-- CARD 3 -->
-<div style="
-  width:320px;
-  padding:18px;
-  border-radius:14px;
-  background:linear-gradient(180deg, #1E1F26, #191A20);
-  border:1px solid rgba(255,255,255,0.08);
-  box-shadow:0 10px 30px rgba(0,0,0,0.35);
-  font-family:'JetBrains Mono', monospace;
-  color:#CFCFCF;
-  text-align:left;
-">
-  <div style="color:#FF4D6D; font-weight:700; margin-bottom:8px;">
-    Weather-App
-  </div>
-  <div style="font-size:14px; line-height:1.6;">
-    A global weather application providing real-time climate data
-    and forecasts.
-  </div>
-  <div style="margin-top:14px; font-size:13px; color:#5DADE2;">
-    ● Python
-  </div>
-</div>
+  <!-- Network Analysis -->
+  <a href="https://github.com/prem-x/Network-Analysis" target="_blank" rel="noopener noreferrer"
+     style="text-decoration:none; display:inline-block; margin: 0 18px; width: 280px;">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=prem-x&repo=Network-Analysis&theme=github_dark&hide_border=true"
+      alt="Network Analysis Repository"
+      width="280"
+      style="border-radius:12px; box-shadow:0 6px 18px rgba(0,0,0,0.35);"
+    />
+  </a>
 
-</div>
-</div>
+  <!-- Weather App -->
+  <a href="https://github.com/prem-x/Weather-App" target="_blank" rel="noopener noreferrer"
+     style="text-decoration:none; display:inline-block; margin: 0 18px; width: 280px;">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=prem-x&repo=Weather-App&theme=github_dark&hide_border=true"
+      alt="Weather App Repository"
+      width="280"
+      style="border-radius:12px; box-shadow:0 6px 18px rgba(0,0,0,0.35);"
+    />
+  </a>
+
+</p>
 
 
 <br>
